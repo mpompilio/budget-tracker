@@ -1,9 +1,6 @@
 {
     "name": "Budget Tracker",
     "short_name": "Budgies",
-    "description": "An app that allows you to view upcoming food events.",
-    "background_color": "#01579b",
-    "theme_color": "#ffffff",
     "icons": [
         {
           "src": "/icons/icon-72x72.png",
@@ -47,7 +44,10 @@
         }
         
       ],
-
+      
+      "description": "An app that allows you to view upcoming food events.",
+      "background_color": "#01579b",
+      "theme_color": "#ffffff",
       "start_url": "/",
       "display": "standalone"
 }
